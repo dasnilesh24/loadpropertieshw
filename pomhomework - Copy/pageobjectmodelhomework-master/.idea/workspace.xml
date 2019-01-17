@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78140b43-6283-4f41-988a-91eedef9e480" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="352204251">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="30" />
+          <entry key="java" value="4508" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4508" />
+          <entry key="PLAIN_TEXT" value="30" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1363390854">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Feature" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="1" />
+          <entry key="JAVA" value="10" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Feature" value="661" />
+          <entry key="Properties" value="187" />
+          <entry key="java" value="544" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="661" />
+          <entry key="JAVA" value="544" />
+          <entry key="Properties" value="187" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/RegistrationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="65" column="99" lean-forward="true" selection-start-line="65" selection-start-column="99" selection-end-line="65" selection-end-column="99" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/ProductPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1303#1304#0" expanded="true" />
+                <element signature="e#1395#1396#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/NopcommerceCategoryPage.Feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="85" column="62" lean-forward="true" selection-start-line="85" selection-start-column="62" selection-end-line="85" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NewPageObjecttask/TestSuit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/LoadProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/TestDataConfig.Properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/CheckoutPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/AddtocartPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NewPageObjecttask/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/Emailpage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/Softassrt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/ordercart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/addtocart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/AssertMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/LoadProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/EmailPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/AddtocartPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NewPageObjecttask/TestSuit.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/NopcommerceCategoryPage.Feature" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/CheckoutPage.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/TestDataConfig.Properties" />
+        <option value="$PROJECT_DIR$/src/main/java/NewPageObjecttask/RegistrationPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="browserdriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NewPageObjecttask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NewPageObjecttask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pageobjectmodelhomework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pageobjectmodelhomework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547682691429" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Downloads\pageobjectmodelhomework-master\pageobjectmodelhomework-master\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\program-java\NewPageObjecttask27\src\main\java\browserdriver" />
+      <recent name="C:\program-java\NewPageObjecttask27\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.user_should_register_succesfully">
+    <configuration name="TestSuit.unregister_user_shouldnot_able_to_send_email_friend" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewPageObjecttask27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPageObjecttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPageObjecttask" />
+      <option name="MAIN_CLASS_NAME" value="NewPageObjecttask.TestSuit" />
+      <option name="METHOD_NAME" value="unregister_user_shouldnot_able_to_send_email_friend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.user_should_able_to_eamial_friend" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewPageObjecttask27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPageObjecttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPageObjecttask" />
+      <option name="MAIN_CLASS_NAME" value="NewPageObjecttask.TestSuit" />
+      <option name="METHOD_NAME" value="user_should_able_to_eamial_friend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.user_should_able_to_email_friend" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewPageObjecttask27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPageObjecttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPageObjecttask" />
+      <option name="MAIN_CLASS_NAME" value="NewPageObjecttask.TestSuit" />
+      <option name="METHOD_NAME" value="user_should_able_to_email_friend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.user_should_accept_terms_and_condition" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewPageObjecttask27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPageObjecttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPageObjecttask" />
+      <option name="MAIN_CLASS_NAME" value="NewPageObjecttask.TestSuit" />
+      <option name="METHOD_NAME" value="user_should_accept_terms_and_condition" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.user_should_register_succesfully" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewPageObjecttask27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewPageObjecttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewPageObjecttask" />
+      <option name="MAIN_CLASS_NAME" value="NewPageObjecttask.TestSuit" />
+      <option name="METHOD_NAME" value="user_should_register_succesfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuit.user_should_register_succesfully" />
+      <item itemvalue="TestNG.TestSuit.user_should_able_to_eamial_friend" />
+      <item itemvalue="TestNG.TestSuit.user_should_able_to_email_friend" />
+      <item itemvalue="TestNG.TestSuit.unregister_user_shouldnot_able_to_send_email_friend" />
+      <item itemvalue="TestNG.TestSuit.user_should_accept_terms_and_condition" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.user_should_register_succesfully" />
+        <item itemvalue="TestNG.TestSuit.user_should_able_to_email_friend" />
+        <item itemvalue="TestNG.TestSuit.user_should_accept_terms_and_condition" />
+        <item itemvalue="TestNG.TestSuit.unregister_user_shouldnot_able_to_send_email_friend" />
+        <item itemvalue="TestNG.TestSuit.user_should_able_to_eamial_friend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78140b43-6283-4f41-988a-91eedef9e480" name="Default Changelist" comment="" />
+      <created>1546705424446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546705424446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuit_user_should_able_to_email_friend - 2019.01.15 at 02h 38m 20s.xml">
+      <configuration name="TestSuit.user_should_able_to_email_friend" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_able_to_email_friend - 2019.01.15 at 02h 39m 30s.xml">
+      <configuration name="TestSuit.user_should_able_to_email_friend" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_unregister_user_shouldnot_able_to_send_email_friend - 2019.01.16 at 23h 27m 53s.xml">
+      <configuration name="TestSuit.unregister_user_shouldnot_able_to_send_email_friend" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_accept_terms_and_condition - 2019.01.16 at 23h 28m 34s.xml">
+      <configuration name="TestSuit.user_should_accept_terms_and_condition" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_able_to_email_friend - 2019.01.16 at 23h 29m 01s.xml">
+      <configuration name="TestSuit.user_should_able_to_email_friend" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_register_succesfully - 2019.01.16 at 23h 31m 32s.xml">
+      <configuration name="TestSuit.user_should_register_succesfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_register_succesfully - 2019.01.16 at 23h 40m 07s.xml">
+      <configuration name="TestSuit.user_should_register_succesfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_register_succesfully - 2019.01.16 at 23h 45m 43s.xml">
+      <configuration name="TestSuit.user_should_register_succesfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_register_succesfully - 2019.01.16 at 23h 46m 36s.xml">
+      <configuration name="TestSuit.user_should_register_succesfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_user_should_register_succesfully - 2019.01.16 at 23h 47m 17s.xml">
+      <configuration name="TestSuit.user_should_register_succesfully" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30181542" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.447541" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.27377048" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28366113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.447541" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.27377048" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/CheckoutPage.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Basepage.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NewPageObjecttask/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/Softassrt.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/AssertMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/EmailPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/AddtocartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/CheckoutPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/LoadProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NewPageObjecttask/TestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/NopcommerceCategoryPage.Feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="85" column="62" lean-forward="true" selection-start-line="85" selection-start-column="62" selection-end-line="85" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestDataConfig.Properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewPageObjecttask/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="65" column="99" lean-forward="true" selection-start-line="65" selection-start-column="99" selection-end-line="65" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NewPageObjecttask27</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>selenium-server-standalone-3.141.59</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
